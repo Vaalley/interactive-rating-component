@@ -100,7 +100,7 @@
 	<div class="thank-you-container w-[450px] bg-dark-grey p-10 rounded-3xl hidden">
 		<div class="flex justify-center">
 			<img
-				src="/images/illustration-thank-you.svg"
+				src="./images/illustration-thank-you.svg"
 				alt="Illustration of a phone receiving feedback"
 				class="w-40 mb-8"
 			/>
