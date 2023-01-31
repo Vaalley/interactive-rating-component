@@ -63,7 +63,7 @@
 <main class="flex justify-center items-center h-[100vh] bg-very-dark-blue">
 	<div class="rating-container w-[450px] bg-dark-grey p-10 rounded-3xl">
 		<img
-			src="./images/icon-star.svg"
+			src="../../images/icon-star.svg"
 			alt="star rating icon"
 			class="bg-dark-blue rounded-full w-10 h-10 p-3 mb-5"
 		/>
@@ -100,7 +100,7 @@
 	<div class="thank-you-container w-[450px] bg-dark-grey p-10 rounded-3xl hidden">
 		<div class="flex justify-center">
 			<img
-				src="./images/illustration-thank-you.svg"
+				src="../../images/illustration-thank-you.svg"
 				alt="Illustration of a phone receiving feedback"
 				class="w-40 mb-8"
 			/>
